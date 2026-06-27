@@ -1,8 +1,9 @@
+
 # Hi, I'm Ayesha Mumtaz! 👋
 
 ## About Me
 - 🎓 BS IT Student (2028)
-- 📍 Bahwalpur,Punjab, Pakistan
+- 📍 Bahwalpur, Punjab, Pakistan
 - 💡 Aspiring Data Analyst
 - 🌱 Currently learning SQL & Python
 
@@ -12,7 +13,7 @@
 | SQL | Intermediate |
 | Python | Beginner |
 | Data Analysis | Learning |
-
+| HTML | Beginner |
 
 ## What I'm Working On
 - 📊 SQL Data Analysis Projects
@@ -24,3 +25,4 @@
 
 ---
 ⭐ Open to internship opportunities!
+
