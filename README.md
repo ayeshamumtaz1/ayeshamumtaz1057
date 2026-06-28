@@ -367,11 +367,11 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=ayeshamumtaz1057&icon=5&color=7"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Made%20with-by%20Ayesha-7c3aed?style=for-the-badge"/>
+![Visitor Count](https://profile-counter.glitch.me/ayeshamumtaz1057/count.svg)
 
-[![Holopin Board](https://holopin.me/ayeshamumtaz1057)](https://holopin.io/@ayeshamumtaz1057)
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20Ayesha%20Mumtaz-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
