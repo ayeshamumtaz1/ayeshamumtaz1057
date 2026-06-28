@@ -1,17 +1,24 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=130&section=header&text=Ayesha%20Mumtaz&fontSize=42&fontColor=c084fc&fontAlignY=65&animation=fadeIn&desc=BS%20Information%20Technology%20%7C%20Web%20Developer%20%7C%20Python%20Learner&descAlignY=85&descSize=15&descColor=8b949e"/>
+<!-- 3D Animated Header Banner (venom type gives depth illusion) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:2d1b69,100:4c1d95&height=200&section=header&text=Ayesha%20Mumtaz&fontSize=50&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn&desc=Future%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Web%20Developer%20%7C%20Python%20Developer&descAlignY=75&descSize=16&descColor=c084fc&stroke=7c3aed&strokeWidth=2"/>
 
-<!-- Badges -->
+<!-- Profile badges -->
 <img src="https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ayeshamumtaz1057?style=for-the-badge&color=238636&labelColor=0d1117&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-c084fc?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOAL-AI%20Engineer%20%F0%9F%A4%96-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <br/><br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Hi+there!+I'm+Ayesha+Mumtaz+%F0%9F%91%8B;BS+Information+Technology+Student+%F0%9F%8E%93;Aspiring+Web+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;Building+My+Skills+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=55&lines=Hi+there!+I'm+Ayesha+Mumtaz+%F0%9F%91%8B;BS+Information+Technology+%7C+Class+of+2028+%F0%9F%8E%93;Aspiring+AI+Engineer+%F0%9F%A4%96+%7C+ML+Explorer;Web+Developer+%F0%9F%8C%90+%7C+Python+Developer+%F0%9F%90%8D;On+a+Mission+to+Build+Intelligent+Systems+%F0%9F%9A%80;From+Hello+World+to+Neural+Networks+%F0%9F%A7%A0" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-Powered%20Future-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-In%20Progress-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Level%20Up-3776AB?style=for-the-badge"/>
 
 </div>
 
@@ -26,13 +33,32 @@ ayesha = {
     "degree"      : "BS Information Technology",
     "university"  : "Islamia University of Bahawalpur, Pakistan 🇵🇰",
     "batch"       : "Class of 2028",
-    "focus"       : ["Web Development", "Python Programming", "UI/UX Basics"],
-    "currently"   : "Learning HTML, CSS, Python fundamentals",
-    "goal"        : "Become a Full-Stack Web Developer",
-    "available"   : "Open to internships & collaborations",
-    "fun_fact"    : "Every expert was once a beginner 💜"
+    "current_path": ["Web Development", "Python Programming", "AI & ML Foundations"],
+    "dream_role"  : "🤖 AI Engineer — Building intelligent systems that matter",
+    "interests"   : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+    "currently"   : "Learning Python → Leveling up to AI/ML",
+    "available"   : "Open to internships, projects & collaborations",
+    "philosophy"  : "From code to cognition — one model at a time 🧠",
+    "fun_fact"    : "Every AI started as a blank model. So did I 💜"
 }
 ```
+
+---
+
+## 🤖 AI / ML Roadmap
+
+<div align="center">
+
+```
+ PHASE 1 ──────────── PHASE 2 ──────────── PHASE 3 ──────────── PHASE 4
+  [NOW]                [NEXT]               [SOON]               [GOAL]
+
+  Python Core    →   NumPy & Pandas   →   Scikit-learn     →   Deep Learning
+  Web Dev        →   Data Analysis    →   ML Algorithms    →   NLP / CV
+  Git & GitHub   →   Visualization    →   First ML Model   →   AI Engineer 🤖
+```
+
+</div>
 
 ---
 
@@ -44,9 +70,11 @@ ayesha = {
 |---|---|---|
 | HTML5 | ████████░░ 80% | Semantic & accessible markup |
 | CSS3 | ██████░░░░ 60% | Responsive layouts & animations |
-| Python | ███████░░░ 70% | Core fundamentals & logic |
+| Python | ███████░░░ 70% | Core logic → AI/ML libraries |
 | JavaScript | ███░░░░░░░ 30% | DOM manipulation & ES6 |
-| Git & GitHub | █████████░ 90% | Version control & collaboration |
+| Git & GitHub | █████████░ 90% | Version control & open source |
+| NumPy & Pandas | ██░░░░░░░░ 20% | Data manipulation for ML |
+| ML Fundamentals | █░░░░░░░░░ 10% | Algorithms & model building |
 
 </div>
 
@@ -70,18 +98,29 @@ ayesha = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+**AI / ML Stack — Learning 🚀**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 **Learning Next**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Web Development Projects
 
 <table>
 <tr>
@@ -90,7 +129,7 @@ ayesha = {
 ### 🌐 My First HTML Project
 > **Web Development Journey Begins**
 
-My very first step into web development — a simple HTML project where I learned the basics of structure, tags, headings, paragraphs and links. Every big journey starts somewhere!
+My very first step into web development — learning the core structure of HTML: tags, headings, paragraphs and links. Every big journey starts with a single line of code!
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/My--first--html)
@@ -101,7 +140,7 @@ My very first step into web development — a simple HTML project where I learne
 ### 📄 HTML Resume / Profile
 > **Personal Portfolio Page**
 
-A clean, structured HTML resume hosted on GitHub Pages — my personal profile showcasing my education and skills. A great exercise in semantic HTML and presentation.
+A clean, structured HTML resume hosted on GitHub Pages — showcasing my education, skills, and projects. Great exercise in semantic HTML and self-presentation.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/my-resume---profile)
@@ -114,7 +153,7 @@ A clean, structured HTML resume hosted on GitHub Pages — my personal profile s
 ### 🔐 Login Form
 > **HTML Form Design**
 
-A simple, clean login form built with HTML — containing email, password fields, and a login button. My introduction to form elements and user input.
+A clean login form with email and password fields — my first hands-on experience with HTML form elements and user input structure.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/login---form)
@@ -125,12 +164,75 @@ A simple, clean login form built with HTML — containing email, password fields
 ### 🐍 Python Fundamentals Series
 > **3-Part Learning Series**
 
-A complete beginner Python series covering variables & data types, arithmetic/logical operators, and conditional logic (if/else/elif). Organized, clean, and well-commented code.
+A complete beginner Python series covering variables & data types, operators, and conditional logic. Clean, well-commented and organized code.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-[![Repo](https://img.shields.io/badge/Variables-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-variables-basics)
-[![Repo](https://img.shields.io/badge/Operators-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-operators-basics)
-[![Repo](https://img.shields.io/badge/Conditions-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-conditions-basics)
+[![Variables](https://img.shields.io/badge/Variables-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-variables-basics)
+[![Operators](https://img.shields.io/badge/Operators-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-operators-basics)
+[![Conditions](https://img.shields.io/badge/Conditions-181717?style=flat-square&logo=github)](https://github.com/ayeshamumtaz1057/python-conditions-basics)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI / ML Projects *(Coming Soon)*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Spam Email Classifier
+> **First ML Project — Planned**
+
+A text classification model to detect spam vs. legitimate emails using Scikit-learn. Will cover data cleaning, TF-IDF vectorization, Naive Bayes & model evaluation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Planned-blueviolet?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Student Grade Predictor
+> **ML Regression — Planned**
+
+A machine learning model to predict student exam scores based on study hours and attendance. Built with Linear Regression and visualized with Matplotlib & Seaborn.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Planned-blueviolet?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Flower Image Classifier
+> **Deep Learning / CNN — Planned**
+
+A Convolutional Neural Network trained to classify flower species from images using TensorFlow/Keras with transfer learning. My first Computer Vision project!
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Planned-blueviolet?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI Chatbot (NLP)
+> **NLP / HuggingFace — Planned**
+
+A smart conversational chatbot using HuggingFace Transformers. Will include intent detection, context handling, and a clean web interface.
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Planned-blueviolet?style=flat-square)
 
 </td>
 </tr>
@@ -154,9 +256,7 @@ A complete beginner Python series covering variables & data types, arithmetic/lo
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ayeshamumtaz1057&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
 </div>
 
 ---
@@ -164,14 +264,12 @@ A complete beginner Python series covering variables & data types, arithmetic/lo
 ## 📈 Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&hide_border=true"/>
-
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
@@ -181,47 +279,99 @@ A complete beginner Python series covering variables & data types, arithmetic/lo
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-snake.svg"/>
 </picture>
 
-> 💡 **To activate the snake animation:** Go to your repo → Actions tab → enable workflows → the snake SVG will auto-generate daily.
+</div>
+
+<details>
+<summary>⚙️ Click to see Snake Setup Instructions</summary>
+
+1. Create folder `.github/workflows/` in your profile repo
+2. Create file `snake.yml` with the Platane/snk action
+3. Go to **Settings → Actions → General → Allow all actions**
+4. Run the workflow manually once — snake appears!
+5. It auto-updates every day after that 🐍
+
+</details>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-3d-contrib.vercel.app/svg/contrib/ayeshamumtaz1057-purple.svg" alt="3D Contribution Calendar" width="80%"/>
 
 </div>
+
+<details>
+<summary>⚙️ Click to see 3D Calendar Setup</summary>
+
+1. Go to [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+2. Add the GitHub Action to your profile repo
+3. It generates a stunning 3D version of your contribution graph!
+4. Replace `ayeshamumtaz1057` in the URL above with your username
+
+</details>
 
 ---
 
 ## 💬 Quote of the Day
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20secret%20of%20getting%20ahead%20is%20getting%20started&author=Mark%20Twain"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 ---
 
-## 🎯 2025–2026 Goals
+## 😄 Random Dev Joke
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&textColor=%23c084fc&borderColor=%237c3aed" alt="Dev Joke"/>
+</div>
+
+---
+
+## 📡 WakaTime Coding Stats
 
 <div align="center">
 
-| # | Goal | Status |
-|---|------|--------|
-| 01 | ✅ Start my GitHub journey | Done! |
-| 02 | 🔄 Complete HTML & CSS fundamentals | In Progress |
-| 03 | 🔄 Build 5 Python projects | In Progress |
-| 04 | ⏳ Learn JavaScript basics | Upcoming |
-| 05 | ⏳ Build my first full webpage from scratch | Upcoming |
-| 06 | ⏳ Land my first internship | Upcoming |
-| 07 | ⏳ Contribute to an open source project | Upcoming |
+<!--START_SECTION:waka-->
+> 💡 **Setup:** Install WakaTime plugin in VS Code → connect your account → add `waka-readme` GitHub Action → your real coding hours appear here automatically!
+<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-## 🌐 Visitor Map
+## 🎯 2025–2028 Roadmap
+
+<div align="center">
+
+| # | Milestone | Status |
+|---|-----------|--------|
+| 01 | ✅ Start GitHub journey & publish first repos | **Done!** |
+| 02 | 🔄 Master HTML, CSS & Python fundamentals | In Progress |
+| 03 | 🔄 Build 5+ Python projects | In Progress |
+| 04 | ⏳ Learn NumPy, Pandas & data analysis | Upcoming |
+| 05 | ⏳ Complete first ML project — Spam Classifier | Upcoming |
+| 06 | ⏳ Learn Deep Learning with TensorFlow/Keras | Upcoming |
+| 07 | ⏳ Build a Computer Vision project | Upcoming |
+| 08 | ⏳ Land first AI/ML internship | Upcoming |
+| 09 | ⏳ Contribute to open source AI project | Upcoming |
+| 10 | 🤖 Graduate as a Professional AI Engineer | **The Dream!** |
+
+</div>
+
+---
+
+## 🌐 Visitor Counter
 
 <div align="center">
 
 <img src="https://visitcount.itsvg.in/api?id=ayeshamumtaz1057&icon=5&color=7"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Made%20with-by%20Ayesha-7c3aed?style=for-the-badge"/>
 
-[![An image of @ayeshamumtaz1057's Holopin profile](https://holopin.me/ayeshamumtaz1057)](https://holopin.io/@ayeshamumtaz1057)
+[![Holopin Board](https://holopin.me/ayeshamumtaz1057)](https://holopin.io/@ayeshamumtaz1057)
 
 </div>
 
@@ -240,10 +390,10 @@ A complete beginner Python series covering variables & data types, arithmetic/lo
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0d1117&height=120&section=footer&text=AI%20Engineer%20in%20the%20Making%20%F0%9F%A4%96&fontSize=22&fontColor=e9d5ff&fontAlignY=55&animation=twinkling"/>
 
-*"Every line of code is a step forward. Keep building, keep growing. 💜"*
+*"The best time to start learning AI was yesterday. The second best time is right now. 💜"*
 
-⭐ **Feel free to star my repositories if you find them helpful!** ⭐
+⭐ **If you find my journey inspiring, drop a star on my repos!** ⭐
 
 </div>
