@@ -244,13 +244,21 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=ayeshamumtaz1057&theme=midnight-purple&hide_border=true&background=0d1117&ring=c084fc&fire=a855f7&currStreakLabel=c084fc"/>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" 
+     onerror="this.src='https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=dark&hide_border=true'" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9"/>
+<!-- GitHub Streak -->
+<img width="49%" src="https://streak-stats.demolab.com?user=ayeshamumtaz1057&theme=midnight-purple&hide_border=true&background=0d1117&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&cache_seconds=1800" />
 
 </div>
 
+<div align="center">
+
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&cache_seconds=1800" />
+
+</div>
 ---
 
 ## 🏆 GitHub Trophies
