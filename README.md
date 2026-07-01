@@ -10,6 +10,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ayeshamumtaz1057-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=f72585&label=PROFILE+VIEWS)
 
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/ayeshamumtaz1057?style=for-the-badge&color=4CC9F0&labelColor=1A1B27&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057?tab=followers)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ayeshamumtaz1057/repos?per_page=100&query=$[*].stargazers_count&label=Total%20Stars&style=for-the-badge&color=FFD93D&labelColor=1A1B27&logo=star&logoColor=white)
+![Repos](https://img.shields.io/github/repos/ayeshamumtaz1057?style=for-the-badge&color=6BCB77&labelColor=1A1B27&logo=github&logoColor=white&label=Repos)
+
+<br/><br/>
+
+<a href="https://github.com/ayeshamumtaz1057">
+  <img src="https://img.shields.io/badge/➕%20Follow%20Me%20on%20GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
