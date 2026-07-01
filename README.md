@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=200&section=header&text=Hi%2C%20I'm%20Ayesha%20Mumtaz%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%26%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=220&section=header&text=Hi%2C%20I%27m%20Ayesha%20Mumtaz%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%26%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=f72585&label=PROFILE+VIEWS)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Web+Developer+%7C+Python+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Web+Developer+%7C+Python+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
@@ -119,3 +119,4 @@ ayesha = {
 ⭐ **If you find my journey relatable, a star on my repos means a lot!** ⭐
 
 </div>
+
