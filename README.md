@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=220&section=header&text=Ayesha%20Mumtaz&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%26%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=220&section=header&text=Hi%2C%20I'm%20Ayesha%20Mumtaz%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%26%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F72585,4CC9F0,4361EE,7209B7,FFB703&center=true&vCenter=true&width=600&lines=BS+IT+%E2%80%9928+%7C+Web+%2B+Python+Developer;Learning+in+public%2C+one+commit+at+a+time;Turning+small+projects+into+real+skills;Future+Goal%3A+AI+%2F+ML+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
 
@@ -10,25 +10,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ayeshamumtaz1057-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057)
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=f72585&label=PROFILE+VIEWS)
 
-<br/>
-
-[![Followers](https://img.shields.io/github/followers/ayeshamumtaz1057?style=for-the-badge&color=4CC9F0&labelColor=1A1B27&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057?tab=followers)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ayeshamumtaz1057/repos?per_page=100&query=$[*].stargazers_count&label=Total%20Stars&style=for-the-badge&color=FFD93D&labelColor=1A1B27&logo=star&logoColor=white)
-![Repos](https://img.shields.io/github/repos/ayeshamumtaz1057?style=for-the-badge&color=6BCB77&labelColor=1A1B27&logo=github&logoColor=white&label=Repos)
-
-<br/><br/>
-
-<a href="https://github.com/ayeshamumtaz1057">
-  <img src="https://img.shields.io/badge/➕%20Follow%20Me%20on%20GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,12,20&height=55&section=header&text=About%20Me&fontSize=28&fontColor=FFFFFF&desc=🧭&descSize=0" width="100%"/>
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/aditya9829/aditya9829/output/snake.svg">
 
 - 🎓 &nbsp;Currently pursuing a **BS in Information Technology** — Class of 2028
 - 💻 &nbsp;Building my foundations in **Web Development** (HTML, CSS) and **Python**
@@ -36,8 +22,6 @@
 - 🎯 &nbsp;Long-term goal: grow into an **AI / ML Engineer** — see my roadmap below
 - 🤝 &nbsp;Always open to collaborating with other learners and developers
 - ⚡ &nbsp;Fun fact: every repo here started as *"I have no idea how this works"*
-
-<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -133,6 +117,16 @@ Connect WakaTime to see live coding hours here.
 | 08 | Land first AI/ML internship | ![Upcoming](https://img.shields.io/badge/Upcoming-FFD93D?style=flat-square) |
 | 09 | Contribute to an open-source AI project | ![Upcoming](https://img.shields.io/badge/Upcoming-FFD93D?style=flat-square) |
 | 10 | Graduate as a Professional AI Engineer | ![Dream](https://img.shields.io/badge/The%20Dream-9D4EDD?style=flat-square) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,11,17,23&height=55&section=header&text=Quote%20of%20the%20Day&fontSize=26&fontColor=FFFFFF" width="100%"/>
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
